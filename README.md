@@ -1,5 +1,4 @@
-### Hi there 👋
-<hr>
+<h1>Hi, I’m Tuan Kiet </h1>
 **letuankiet212/letuankiet212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
