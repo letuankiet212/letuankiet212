@@ -13,13 +13,8 @@
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 <hr>
 <br>
-<img src="https://i.ibb.co/jJwGWGs/education.jpg" >
- <hr>
-<p><b>✨Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
-<p><i>Ngành Tin Học Ứng Dụng</i><p>
-<br>
+
 <img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
- <hr>
 <hr>
 <p><b>✨CÔNG TY GOSU HUẾ (06/2020 - HIỆN TẠI)</b> - (Frontend Developer VueJS)</p>
 <ul>
@@ -46,6 +41,11 @@
 <li>Convert PSD to HTML</li>
 <li>Learn Workpress</li>
 </ul>
+<br>
+<img src="https://i.ibb.co/jJwGWGs/education.jpg" >
+ <hr>
+<p><b>✨Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
+<p><i>Ngành Tin Học Ứng Dụng</i><p>
 <br>
 <h1>📈 Github Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=tuankiet212&theme=vue-dark&show_icons=true&count_private=true">
