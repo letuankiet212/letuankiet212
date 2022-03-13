@@ -15,7 +15,7 @@
 <br>
 <img src="https://i.ibb.co/jJwGWGs/education.jpg" >
  <hr>
-<p><b>Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
+<p><b>✨Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
 <p><i>Ngành Tin Học Ứng Dụng</i><p>
 <br>
 <img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
