@@ -1,20 +1,49 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
-body{
-font-family: 'Fredoka', sans-serif;
-}
-</style>
-[![Header CV](https://i.ibb.co/2FKks31/large.png "Header CV")](https://i.ibb.co/2FKks31/large.png "Header CV")
+<img src="https://i.ibb.co/ftQKTWb/large.png" style="text-align:center" />
+
 <h2 style="font-family: 'Fredoka', sans-serif;">
  📶 CONTACT
 </h2>
 <p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
-<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/FKqtg4q/email.png"/ > </a>
-<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
-<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
-<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+<a href = "mailto: abc@example.com"> <img src="https://i.ibb.co/FKqtg4q/email.png"/ > </a>
+<a href="https://www.facebook.com/CaHop51"> <img src="https://i.ibb.co/XFwHjCq/facebook.png" > </a>
+<a href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/8mNTxYp/linkedin.png" > </a>
+
 </p>
 
+<h2>📚EDUCATION:</h2>
+<p><b>Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
+<p><i>Ngành Tin Học Ứng Dụng</i><p>
+
+<h2>
+🏢EXPERIENCES
+</h2>
+
+<p><b>✨CÔNG TY GOSU HUẾ (06/2020 - HIỆN TẠI)</b> - (Frontend Developer VueJS)</p>
+<ul>
+<li>Build pages with VueJS</li>
+<li>Convert PSD to HTML</li>
+</ul>
+<p><b>✨GAME PRIVATE (05/2019 - 03/2020)</b> - (PHP Developer)</p>
+<ul>
+<li>Buld website with PHP</li>
+</ul>
+<p><b>✨CÔNG TY TNHH HÓA TAM (02/2019 - 04/2019)</b> - (Trainee)</p>
+<ul>
+<li>Convert PSD to HTML</li>
+<li>Learn HTML,CSS,JS </li>
+</ul>
+<p><b>✨CÔNG TY TNHH HÓA TAM (04/2018 - 08/2018)</b> - (Trainee)</p>
+<ul>
+<li>Convert PSD to HTML</li>
+<li>Learn HTML,CSS,JS</li>
+</ul>
+<p><b>✨CÔNG TY ICODEDESIGNS COMPANY (04/2018 - 08/2018)</b> - (Trainee)</p>
+<ul>
+<li>Build pages with Workpress</li>
+<li>Convert PSD to HTML</li>
+<li>Learn Workpress</li>
+</ul>
 
 <h1>⭐Web Front-end:</h1>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
