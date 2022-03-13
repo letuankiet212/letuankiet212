@@ -12,8 +12,11 @@
 </br>
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 <hr>
-<br>
 
+<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/lang-la-don-xuan">Demo</a></p>
+<img src="https://i.ibb.co/LvfCHpQ/htng-share.jpg" >
+
+<br>
 <img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
 <hr>
 <p><b>✨CÔNG TY GOSU HUẾ (06/2020 - HIỆN TẠI)</b> - (Frontend Developer VueJS)</p>
