@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/ftQKTWb/large.png" style="text-align:center" />
 
+<img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 <h2 style="font-family: 'Fredoka', sans-serif;">
  📶 CONTACT
 </h2>
