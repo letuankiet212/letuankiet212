@@ -1,5 +1,20 @@
-<h1>🙋‍♂️Hi, I’m Tuan Kiet </h1>
-<a href=https://www.linkedin.com/in/le-kiet-738016b8/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+body{
+font-family: 'Fredoka', sans-serif;
+}
+</style>
+[![Header CV](https://i.ibb.co/2FKks31/large.png "Header CV")](https://i.ibb.co/2FKks31/large.png "Header CV")
+<h2 style="font-family: 'Fredoka', sans-serif;">
+ 📶 CONTACT
+</h2>
+<p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/FKqtg4q/email.png"/ > </a>
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+</p>
+
 
 <h1>⭐Web Front-end:</h1>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
