@@ -1,11 +1,76 @@
 <h1>Hi there 👋,Welcome you come my Github </h1>
 <p>This is my portfolio</p>
 </hr>
-<p> Hi, my name Le Tuan Kiet, 25 Age ,  </p>
-<p>oôMy Blog && Videos</p>
-<p>Notion :  </p>
+<p>Hi, my name <span> <b> LE TUAN KIET, 25 Age</b> </span></p>
+<p>✨I am currently working and experienced in Frontend Developer position. </p>
 
-https://www.notion.so/Library-378166874e8a41da8aafc7ae022cd525
+<p><u>✅Upside</u></p> 
+<ul>
+ <li>
+  I am a responsible person at work, also looking forward to learning new things
+ </li>
+ <li>
+  As a sociable, enthusiastic person
+ </li>
+ <li>
+  This is the job i love, i will give it my all
+ </li>
+</ul>
+<p><u>🎯Desire </u></p> 
+<ul>
+ <li>
+  I want find one person to guide me in my career
+ </li>
+ <li>
+  Join an outsourcing company
+ </li>
+ <li>
+  Try a new dynamic working environment 
+ </li>
+</ul>
+
+<p>✨My Notion && Videos</p>
+<ul>
+ <li>
+  <p>📔Notion : <a href="https://www.notion.so/Library-378166874e8a41da8aafc7ae022cd525" target="_blank">Link I</a> | <a href="https://www.notion.so/Library-2-1cd4d57f44154387866d122f4d1215e5" target="_blank">Link II</a></p>
+ </li>
+ <li>
+  <p>📹Youtube : <a href="https://www.youtube.com/watch?v=pAeMntJ-Id4" target="_blank">Link</a></p>
+ </li>
+</ul>
+<img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
+<hr>
+<p><b>✨GOSU Corp (06/2020 - NOW)</b> - (Frontend Developer VueJS)</p>
+<h6>As a famous game company in Vietnam with a large number of games, for each website we will have 1 backend and 1 frontend responsible for building and testing. </h6>
+<ul>
+<li>Build pages with VueJS</li>
+<li>Convert PSD to HTML</li>
+ <li>Learn ReactJS</li>
+</ul>
+<p><b>✨GAME PRIVATE (05/2019 - 03/2020)</b> - (PHP Developer)</p>
+<h6>After completing the course, I built a website in php, html for an open source game project </h6>
+<ul>
+ <li>Build website with PHP</li>
+ <li>Learn and practice MySQL Server</li>
+ <li>Learn and practice SASS</li>
+</ul>
+<p><b>✨HOATAM COMPANY(02/2019 - 04/2019)</b> - (Trainee)</p>
+<ul>
+<li>Convert PSD to HTML</li>
+<li>Learn HTML,CSS,JS </li>
+</ul>
+<p><b>✨ICODEDESIGNS COMPANY (04/2018 - 08/2018)</b> - (Trainee)</p>
+<ul>
+<li>Build pages with Workpress</li>
+<li>Convert PSD to HTML</li>
+<li>Learn Workpress</li>
+</ul>
+<br>
+<img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
+<hr>
+<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/lang-la-don-xuan">Demo</a></p>
+<img src="https://i.ibb.co/LvfCHpQ/htng-share.jpg" >
+<br>
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 <hr>
 <p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
@@ -18,41 +83,6 @@ https://www.notion.so/Library-378166874e8a41da8aafc7ae022cd525
 </br>
 </br>
 </br>
-<img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
-<hr>
-
-<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/lang-la-don-xuan">Demo</a></p>
-<img src="https://i.ibb.co/LvfCHpQ/htng-share.jpg" >
-
-<br>
-<img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
-<hr>
-<p><b>✨CÔNG TY GOSU HUẾ (06/2020 - HIỆN TẠI)</b> - (Frontend Developer VueJS)</p>
-<ul>
-<li>Build pages with VueJS</li>
-<li>Convert PSD to HTML</li>
-</ul>
-<p><b>✨GAME PRIVATE (05/2019 - 03/2020)</b> - (PHP Developer)</p>
-<ul>
-<li>Buld website with PHP</li>
-</ul>
-<p><b>✨CÔNG TY TNHH HÓA TAM (02/2019 - 04/2019)</b> - (Trainee)</p>
-<ul>
-<li>Convert PSD to HTML</li>
-<li>Learn HTML,CSS,JS </li>
-</ul>
-<p><b>✨CÔNG TY TNHH HÓA TAM (04/2018 - 08/2018)</b> - (Trainee)</p>
-<ul>
-<li>Convert PSD to HTML</li>
-<li>Learn HTML,CSS,JS</li>
-</ul>
-<p><b>✨CÔNG TY ICODEDESIGNS COMPANY (04/2018 - 08/2018)</b> - (Trainee)</p>
-<ul>
-<li>Build pages with Workpress</li>
-<li>Convert PSD to HTML</li>
-<li>Learn Workpress</li>
-</ul>
-<br>
 <img src="https://i.ibb.co/jJwGWGs/education.jpg" >
  <hr>
 <p><b>✨Cao Đẳng Công Nghiệp Huế (2015-2018)</b></p>
