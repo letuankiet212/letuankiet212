@@ -1,3 +1,11 @@
+<h1>Hi there 👋,Welcome you come my Github </h1>
+<p>This is my portfolio</p>
+</hr>
+<p> Hi, my name Le Tuan Kiet, 25 Age ,  </p>
+<p>oôMy Blog && Videos</p>
+<p>Notion :  </p>
+
+https://www.notion.so/Library-378166874e8a41da8aafc7ae022cd525
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 <hr>
 <p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
