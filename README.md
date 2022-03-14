@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 <hr>
 <p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
-<a href = "mailto: abc@example.com"> <img src="https://i.ibb.co/FKqtg4q/email.png"/ > </a>
-<a href="https://www.facebook.com/CaHop51"> <img src="https://i.ibb.co/XFwHjCq/facebook.png" > </a>
-<a href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
-<a href="https://www.linkedin.com/in/le-kiet-738016b8/"> <img src="https://i.ibb.co/8mNTxYp/linkedin.png" > </a>
+<a href = "mailto: letuankiet51@gmail.com" target="_blank"> <img src="https://i.ibb.co/FKqtg4q/email.png"/ > </a>
+<a href="https://www.facebook.com/CaHop51" target="_blank"> <img src="https://i.ibb.co/XFwHjCq/facebook.png" > </a>
+<a target="_blank" href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+<a href="https://www.linkedin.com/in/le-kiet-738016b8/" target="_blank"> <img src="https://i.ibb.co/8mNTxYp/linkedin.png" > </a>
 </p>
 </br>
 </br>
@@ -53,4 +53,3 @@
 <h1>📈 Github Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=tuankiet212&theme=vue-dark&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letuankiet212&theme=vue&layout=compact&langs_count=5">
-
