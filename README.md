@@ -71,6 +71,9 @@
 <p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/lang-la-don-xuan">Demo</a></p>
 <img src="https://i.ibb.co/LvfCHpQ/htng-share.jpg" >
 <br>
+<p>2️⃣.PAGE - Huyền Thoại Hải Tặc - <a href="https://haitacdaichien.vn/su-kien/oan-tu-xi">Demo</a></p>
+<img src="https://i.ibb.co/cwQCHdS/safe-image.jpg" >
+<br>
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 <hr>
 <p style="display:flex;justify-content:space-between;font-family:'Fredoka'" >
