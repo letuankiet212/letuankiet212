@@ -48,7 +48,7 @@
  <li>Learn ReactJS</li>
 </ul>
 <p><b>✨GAME PRIVATE (05/2019 - 03/2020)</b> - (PHP Developer)</p>
-<h6>After completing the course, I built a website in php, html for an open source game project </h6>
+<h6>Built website with php, html for an open source game project </h6>
 <ul>
  <li>Build website with PHP</li>
  <li>Learn and practice MySQL Server</li>
