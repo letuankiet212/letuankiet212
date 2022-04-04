@@ -74,7 +74,7 @@
 <p>2️⃣.PAGE - Huyền Thoại Hải Tặc - <a href="https://haitacdaichien.vn/su-kien/oan-tu-xi">Demo</a></p>
 <img src="https://i.ibb.co/cwQCHdS/safe-image.jpg" >
 <br>
-<p>2️3️⃣.List of Blogs - <a href="https://simple-blogs-vuejs.herokuapp.com/">Demo</a></p>
+<p>3️⃣.List of Blogs - <a href="https://simple-blogs-vuejs.herokuapp.com/">Demo</a></p>
 <img src="https://i.ibb.co/4jkZW4c/project.jpg" >
 <br>
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
