@@ -35,7 +35,7 @@
   <p>📔Notion : <a href="https://windy-editorial-f68.notion.site/Library-378166874e8a41da8aafc7ae022cd525" target="_blank">Link I</a> | <a href="https://windy-editorial-f68.notion.site/Library-2-1cd4d57f44154387866d122f4d1215e5" target="_blank">Link II</a></p>
  </li>
  <li>
-  <p>📹Youtube : <a href="https://www.youtube.com/watch?v=pAeMntJ-Id4" target="_blank">Link</a></p>
+  <p>📹Youtube : <a href="https://www.youtube.com/channel/UCmdCCJ1Wl4xWmyXUM_o9byg" target="_blank">Link</a></p>
  </li>
 </ul>
 <img src="https://i.ibb.co/ssn2TZK/experiences.jpg" >
