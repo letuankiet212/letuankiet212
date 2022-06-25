@@ -68,6 +68,11 @@
 <br>
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 <hr>
+<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/lang-la-don-xuan">Demo</a></p>
+<img src="https://i.ibb.co/LvfCHpQ/htng-share.jpg" >
+<br>
+<p>2️⃣.PAGE - Huyền Thoại Hải Tặc - <a href="https://haitacdaichien.vn/su-kien/oan-tu-xi">Demo</a></p>
+<img src="https://i.ibb.co/cwQCHdS/safe-image.jpg" >
 <br>
 <p>3️⃣.List of Blogs - <a href="https://simple-blogs-vuejs.herokuapp.com/">Demo</a></p>
 <img src="https://i.ibb.co/4jkZW4c/project.jpg" >
